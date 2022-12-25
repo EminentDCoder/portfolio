@@ -9,3 +9,8 @@ window.addEventListener('scroll', ()=>{
         navbar.classList.add('py-4');
     }
 })
+
+
+  AOS.init({
+    duration: 700,
+  });
